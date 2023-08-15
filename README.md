@@ -5,6 +5,8 @@
 
 KASSBot is an innovative AI tool developed during a tenure at Accenture, specifically for a competition for M***. It's a dual-purpose AI model designed for automated content moderation and in-depth text analysis. By leveraging the power of BERT and Transformer models, KASSBot not only identifies and highlights problematic content within texts but also possesses the capability to answer intricate questions based on a given context. The tool's versatility is further accentuated by its support for content moderation in multiple languages, showcasing immense potential for automating large-scale moderation tasks. This paves the way for enhancing the efficiency and safety of online platforms and environments.
 
+![Coaches Award](award.png)
+
 ## Features
 
 ### 1. Automated Content Moderation
@@ -22,6 +24,8 @@ The tool's ability to discern and highlight potentially toxic sentences in the t
 
 KASSBot is equipped with a sophisticated question-answering mechanism. By utilizing the BERT-large model fine-tuned on the SQuAD dataset, it can extract and return the most relevant answer to a question based on its provided context.
 
+![Chatbot Example](chatbot-example.png)
+
 ## User Interface
 
 The user-friendly interface, powered by Gradio, offers a seamless experience. Users can effortlessly switch between KASSBot's content moderation and text analysis functionalities:
@@ -32,10 +36,14 @@ The user-friendly interface, powered by Gradio, offers a seamless experience. Us
    - Input the text you wish to analyze.
    - Submit to view the highlighted results.
 
+![English Test](english-test.png)
+
 2. **For Text Analysis**:
    - Select "KASSBot" from the dropdown.
    - Input your question and its context.
    - Submit to receive the answer.
+
+![English Result](english-result.png)
 
 ## How to Use
 
