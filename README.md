@@ -22,7 +22,7 @@ The tool's ability to discern and highlight potentially toxic sentences in the t
 
 ### 2. Advanced Text Analysis (Question Answering)
 
-KASSBot is equipped with a sophisticated question-answering mechanism. By utilizing the BERT-large model fine-tuned on the SQuAD dataset, it can extract and return the most relevant answer to a question based on its provided context.
+KASSBot is equipped with a sophisticated question-answering mechanism. By utilizing the BERT-large model fine-tuned on an input text, it can extract and return the most relevant answer to a question based on its provided context.
 
 ![Chatbot Example](chatbot-example.png)
 
