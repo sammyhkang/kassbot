@@ -45,6 +45,12 @@ The user-friendly interface, powered by Gradio, offers a seamless experience. Us
 
 ![English Result](english-result.png)
 
+3. **Presenting to Accenture Senior Leadership**
+
+![image](https://github.com/sammyhkang/kassbot/assets/120065575/b037141b-8c32-4ec1-8cfe-fb1603eccacb)
+![image](https://github.com/sammyhkang/kassbot/assets/120065575/b83fc6b7-4ba4-4d9f-a017-8b59d81df8bb)
+
+
 ## How to Use
 
 To launch the KASSBot interface, simply execute the script. The Gradio interface will be accessible via your default web browser, ensuring a smooth user experience.
